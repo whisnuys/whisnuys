@@ -2,7 +2,7 @@
 
 ### I'm a Web and Mobile Dev Enthusiast from Indonesia :indonesia:
 - :briefcase: I'm currently working in the company as a marketing staff (but i really like to code 😆)
-- :books: I'm currently a student at Amikom University Purwokerto
+- :books: I'm currently a student at Amikom University Purwokerto (Computer Science/Informatics)
 - :computer: I'm currently learning all about Web and Mobile Development
 
 ### Connect with me
