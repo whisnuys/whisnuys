@@ -1,8 +1,7 @@
 ## Hi there, I'm Whisnu :wave:
 
 ### I'm a Web and Mobile Dev Enthusiast from Indonesia :indonesia:
-- :books: I'm currently a student at Amikom University Purwokerto (Computer Science/Informatics)
-- :computer: I'm currently learning all about Web and Mobile Development
+- :computer: I'm currently learning Mobile Development with a primary focus on flutter
 
 ### Connect with me
 [![website](./img/twitter-light.svg)](https://twitter.com/whisnuys#gh-light-mode-only)
