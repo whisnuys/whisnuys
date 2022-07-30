@@ -1,6 +1,7 @@
 ## Hi there, I'm Whisnu :wave:
 
 ### I'm a Web and Mobile Dev Enthusiast from Indonesia :indonesia:
+- :book: I'm Computer Science/Informatics Student
 - :computer: I'm currently learning Mobile Development with a primary focus on flutter
 
 ### Connect with me
