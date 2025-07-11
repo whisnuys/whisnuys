@@ -6,7 +6,7 @@
 
 ### I'm a Web and Mobile Dev Enthusiast from Indonesia :indonesia:
 - :book: Computer Science/Informatics Student
-- :computer: currently learning Mobile Development with a primary focus on flutter
+- :computer: currently learning Mobile Development and Golang
 
 <br/>
 
