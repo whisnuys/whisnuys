@@ -87,16 +87,6 @@ Social + commerce platform, 2-person team. Three-month phased rollout.
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=whisnuys&theme=tokyonight&hide_border=true)](https://github.com/whisnuys)
-
-</div>
-
----
-
 <div align="center">
 
 📬 Open to opportunities &nbsp;·&nbsp; 🌐 [whisnuys.com](https://whisnuys.com)
